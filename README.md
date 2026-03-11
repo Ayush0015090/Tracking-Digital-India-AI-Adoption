@@ -22,9 +22,17 @@ Hardware Parity: Usage is nearly identical across Laptops (34.3%), Tablets (33.5
 Institutional Barriers: Despite 51.3% of students being ready to pay for AI, 50.95% of professors still prohibit its use.
 Connectivity Crisis: Only 31.7% of students enjoy high-speed access; nearly 68% struggle with medium-to-poor connectivity.
 
-🛠️ Technical Stack
+🛠️ Technical Stack:-
 
-Data Orchestration: Power BI Desktop
-ETL & Cleaning: Power Query (Transforming raw survey data)
-Analytics Engine: DAX (Data Analysis Expressions)
-Data Sources: Kaggle Research Datasets
+(1) Data Orchestration: Power BI Desktop
+
+(2) ETL & Cleaning: Power Query (Transforming raw survey data)
+
+(3) Analytics Engine: DAX (Data Analysis Expressions)
+
+(4) Data Sources: Kaggle Research Datasets
+
+
+ 📷 Snapshot :-
+
+![AI Dashboard SnapShot](https://github.com/user-attachments/assets/c82ae5a9-dfd0-443a-8a9e-9040d126264f)
